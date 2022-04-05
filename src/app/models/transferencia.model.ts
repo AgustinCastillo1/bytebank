@@ -1,0 +1,6 @@
+interface Transferencia {
+  id?: number | string;
+  valor: number;
+  destino: number | string;
+  date?: Date | string;
+}
