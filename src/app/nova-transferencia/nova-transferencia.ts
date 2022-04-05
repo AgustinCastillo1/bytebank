@@ -1,3 +1,4 @@
+import { Transferencia } from './../models/transferencia.model';
 import { Component, EventEmitter, Output } from "@angular/core";
 import { Router } from "@angular/router";
 import { TransferenciaService } from "../services/transferencia.service";
